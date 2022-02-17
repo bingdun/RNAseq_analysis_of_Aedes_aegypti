@@ -1,0 +1,13 @@
+Barcode,sample,Sequence,Species,Tissue,Replicate,others
+D4,Prov 1 (A1),GCTCGA,Agam,Prov,1,(A1)
+E4,Prov 2 (A2),GCGAAT,Agam,Prov,2,(A2)
+F4,Prov 3 (A3),TGGATT,Agam,Prov,3,(A3)
+G4,WG 1 (A4),ACCTAC,Agam,WG,1,(A4)
+H4,WG 3 (A6),CGAAGG,Agam,WG,3,(A6)
+A5,WG 2 (A5),AGATAG,Agam,WG,2,(A5)
+B5,Ant 1 (B1),TTGGTA,Agam,Ant,1,(B1)
+C5,Ant 2 (B2),GTTACC,Agam,Ant,2,(B2)
+D5,Ant 3 (B3),CGCAAC,Agam,Ant,3,(B3)
+E5,Post 1 (B4),TGGCGA,Agam,Post,1,(B4)
+F5,Post 2 (B5),ACCGTG,Agam,Post,2,(B5)
+G5,Post 3 (B6),CAACAG,Agam,Post,3,(B6)
