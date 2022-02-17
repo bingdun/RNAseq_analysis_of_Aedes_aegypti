@@ -1,7 +1,0 @@
-"ID_sample","sample","Sequence","Species","Treatment","Tissue","Replicate","condition"
-"A4","BF Post 1","TTTATG","Aaeg","BF","Post",1,"Post_BF"
-"B4","BF Post 2","AACGCC","Aaeg","BF","Post",2,"Post_BF"
-"C4","BF Post 3","CAAGCA","Aaeg","BF","Post",3,"Post_BF"
-"F3","BF Ant 1","GGAGGT","Aaeg","BF","Ant",1,"Ant_BF"
-"G3","BF Ant 2","CACACT","Aaeg","BF","Ant",2,"Ant_BF"
-"H3","BF Ant 3","CCGCAA","Aaeg","BF","Ant",3,"Ant_BF"

@@ -1,7 +1,0 @@
-00.quant.simple.txt
-A4.quant.simple.txt
-B4.quant.simple.txt
-C4.quant.simple.txt
-F3.quant.simple.txt
-G3.quant.simple.txt
-H3.quant.simple.txt
