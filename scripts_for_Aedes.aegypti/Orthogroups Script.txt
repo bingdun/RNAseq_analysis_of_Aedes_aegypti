@@ -1,0 +1,25 @@
+#!/usr/bin/perl
+while(<>){
+	chomp;
+	if (/>/) {
+		s/>//; 
+		@arr=split; 
+		$id=$arr[0];
+		$tmp1=(split(/parent=/,$_))[1];
+		$genes{$id}=(split(/,FBtr/,$tmp1))[0];
+	} else {
+		$seq{$id}.=$_;
+	}
+}
+
+for $key (sort keys %seq) {
+	$gene=$genes{$key}; $len=length($seq{$key});
+	if ($len>$longest{$gene}){
+		$longest{$gene}=$len;
+		$ID{$gene}=$key;
+	}
+}
+
+for (sort keys %ID) {
+	print ">$genes{$ID{$_}}\t$ID{$_}\n$seq{$ID{$_}}\n";
+}
